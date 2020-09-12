@@ -1,9 +1,14 @@
-/*!
- * Bootstrap v4.5.0 (https://getbootstrap.com/)
- * Copyright 2011-2020 The Bootstrap Authors
- * Copyright 2011-2020 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
+/*------------------------------------------------------------------------
+  Bootstrap v4.5.0
+  File:  bootstrap.css
+  Description:All css
+  Author: B-Tech
+  Created: 10.09.2020  
+  
+  @Modified By -
+  @Last Modified -  
+  
+------------------------------------------------------------------------*/
 :root {
   --blue: #007bff;
   --indigo: #6610f2;

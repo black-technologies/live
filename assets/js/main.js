@@ -1,9 +1,15 @@
-/**
-* Template Name: Valera - v2.1.0
-* Template URL: https://bootstrapmade.com/valera-free-bootstrap-theme/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+/*------------------------------------------------------------------------
+  File:  main.js
+  Description:connect All pages
+  Author: B-Tech
+  Created: 08.09.2020
+  
+  @Modified By -
+  @Last Modified -
+  
+  
+------------------------------------------------------------------------*/
+
 !(function($) {
   "use strict";
 
